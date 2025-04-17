@@ -45,7 +45,7 @@ This project was developed for the **HR-Tech Innovation Challenge** hosted by **
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/hr-tech-innovation.git
+   git clone https://github.com/varmaaman229/hr-tech-innovation.git 
    cd hr-tech-innovation
 Install dependencies:
 
